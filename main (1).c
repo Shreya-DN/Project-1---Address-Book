@@ -1,12 +1,5 @@
-//Documentation
+
 /*
-Name       : Shreya D N
-student id : 26018_229
-batch id   : 26018D
-start Date : 08/09/2026
-End Date   : 18/09/2026
-
-
 Description : The following functions are implemented in the Address Book project to manage contact information.
 
 createContact()      -> Adds a new contact to the address book by collecting name, phone number and email from the user.
